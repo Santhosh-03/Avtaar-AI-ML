@@ -1,0 +1,6 @@
+,movie_name,director_name,cast,year_of_release,total_earnings
+0,Interstellar,Christopher Nolan,"['Matthew McConaughey', 'Anne Hathaway', 'Jessica Chastain', 'Bill Irwin', 'Ellen Burstyn', 'Michael Caine']",2014,701.8
+1,Kill Bill: Volume 1,Quentin Tarantino,"['Uma Thurman', 'Lucy Liu', 'Vivica A. Fox', 'Michael Madsen', 'Daryl Hannah', 'David Carradine', 'Sonny Chiba', 'Julie Dreyfus', 'Chiaki Kuriyama', 'Gordon Liu', 'Michael Parks']",2003,180.9
+2,Arrival,Denis Villeneuve,"['Amy Adams', 'Jeremy Renner', 'Forest Whitaker', 'Michael Stuhlbarg', 'Tzi Ma']",2016,203.4
+3,Schindler's List,Steven Spielberg,"['Liam Neeson', 'Ben Kingsley', 'Ralph Fiennes', 'Caroline Goodall', 'Jonathan Sagall', 'Embeth Davidtz']",1993,322.2
+4,Gladiator,Ridley Scott,"['Russell Crowe', 'Joaquin Phoenix', 'Connie Nielsen', 'Oliver Reed', 'Derek Jacobi', 'Djimon Hounsou', 'Richard Harris', 'Tommy Flanagan']",2000,460.5
